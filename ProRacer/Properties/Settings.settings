@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProRacer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PW" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cnnString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=(local);database=ProRacer;integrated security=SSPI</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
